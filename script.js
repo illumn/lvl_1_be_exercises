@@ -25,3 +25,4 @@ secondVar = thirdVar;
 console.log('First: ', firstVar);
 console.log('Second:', secondVar);
 console.log("done")
+console.log("anton");
